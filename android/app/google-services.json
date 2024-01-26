@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963926758523",
+    "project_id": "photogallery-43f27",
+    "storage_bucket": "photogallery-43f27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963926758523:android:cc166cfd20a898a886bede",
+        "android_client_info": {
+          "package_name": "com.example.remotephotogallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZYDKaTX41jg8J-jwt0EYSQbsXcAQ_eG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
